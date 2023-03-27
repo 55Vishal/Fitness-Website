@@ -55,7 +55,7 @@ justify-content: space-between;
 }
 
 .category:hover{
-    background-color: var(--planCard);
+    background-color: var(--orange);
     cursor: pointer;
 }
 

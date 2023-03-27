@@ -1,7 +1,6 @@
-
+import "./About.css";
 
 import React from "react";
-import "./About.css";
 import ReactPlayer from "react-player";
 
 const About = () => {
